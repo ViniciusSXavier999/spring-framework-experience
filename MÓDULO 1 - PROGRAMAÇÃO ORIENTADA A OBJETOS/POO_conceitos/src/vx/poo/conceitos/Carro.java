@@ -5,5 +5,11 @@ package vx.poo.conceitos;
  * */
 
 public class Carro {
+	
+	// FAZENDO A CRIAÇÃO DE ATRIBUTOS
+	
+	String cor;
+	String modelo;
+	int capacidadeTanque;
 
 }
