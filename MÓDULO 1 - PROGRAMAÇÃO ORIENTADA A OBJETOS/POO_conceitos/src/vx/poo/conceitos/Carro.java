@@ -4,7 +4,7 @@ package vx.poo.conceitos;
  * Classe de exemplo para o exercicio do bootcamp spring-framework
  * */
 
-public class Carro {
+public class Carro extends Veiculo {
 	
 	// FAZENDO A CRIAÇÃO DE ATRIBUTOS
 	
