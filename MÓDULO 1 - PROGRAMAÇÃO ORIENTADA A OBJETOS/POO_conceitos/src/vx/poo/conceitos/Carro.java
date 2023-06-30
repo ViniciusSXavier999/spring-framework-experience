@@ -26,6 +26,7 @@ public class Carro {
 	
 	// SOBRECARGA DE CONSTRUTOR
 	public Carro(String cor, String modelo, int capacidadeTanque) {
+		
 		/*Esse this faz referencia aos objetos da classe, diferencia o objeto do parametro
 		 * do construtor*/
 		this.cor = cor;
