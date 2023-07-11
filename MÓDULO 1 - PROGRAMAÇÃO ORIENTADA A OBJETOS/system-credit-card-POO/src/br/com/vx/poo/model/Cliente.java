@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Cliente extends Pessoa {
 	
-	
+	public String numCartao;
 	
 	// como sera bastante endereços, eu posso utilizar da minha interface LIST.
 	private List<Endereco> enderecos;
